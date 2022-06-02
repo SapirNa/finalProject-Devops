@@ -30,6 +30,7 @@
 					<td>Address</td>
 					<td><input type="text" name="address" /></td>
 				</tr>
+				
 				<tr>
 					<td>Contact No</td>
 					<td><input type="text" name="contact" /></td>
